@@ -1,2 +1,5 @@
+[build]
+minify = "on_release"
+
 [serve]
 port = 3000
